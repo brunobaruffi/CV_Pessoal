@@ -1,0 +1,258 @@
+{
+	"footer": {
+		"lastUpdate": "02 de agosto de 2022",
+		"linkedin": "http://www.linkedin.com/in/bruno-baruffi-esteves-78a88b36"
+	},
+	"content": [
+		{
+			"type": "header",
+			"data": {
+				"title": "Bruno Baruffi Esteves",
+				"subtitle": "Casado, brasileiro | 32 anos",
+				"colorHighlight": "#3C5598"
+			}
+		},
+		{
+			"type": "contact-block",
+			"data": {
+				"address": "Rua Amador Bueno da Ribeira, 94, Apto 82 - Centro - 11320-060 - São Vicente, SP",
+				"contacts": [
+					{
+						"icon": "whatsapp",
+						"text": "(13) 98160-1169"
+					},
+					{
+						"icon": "envelope",
+						"text": "brunobaruffi@gmail.com.br",
+						"href": "mailto:brunobaruffi@gmail.com.br"
+					},
+					{
+						"icon": "globe",
+						"text": "professorbaruffi.com.br",
+						"href": "https://professorbaruffi.com.br"
+					},
+                    {
+						"icon": "globe",
+						"text": "medium.com/@brunobaruffi",
+						"href": "https://medium.com/@brunobaruffi"
+					},
+					{
+						"icon": "github",
+						"text": "brunobaruffi",
+						"href": "https://github.com/brunobaruffi"
+					},
+					{
+						"icon": "linkedin",
+						"text": "Bruno Baruffi",
+						"href": "http://www.linkedin.com/in/bruno-baruffi-esteves-78a88b36"
+					}
+				]
+			}
+		},
+		{
+			"title": "Sobre",
+			"content": [
+				{
+					"type": "text-block",
+					"data": "Como Engenheiro de Software, desenvolvi aplicações variadas para ambientes WEB e Desktop, atuando como Back-end ou Full-Stack para atender a necessidades de empregadores e contratos. <br/>Tendo foco, porem não limitado aos recursos: Java, Spring Boot, Kafka, PostgreSQL, MySQL, SQL-Server, MongoDB, PHP, .NET C#.<br/><br/>Como docente atuo em cursos superiores e técnicos, utilizando de metodologias pedagógicas modernas para passar o conhecimento adquirido pela pratica e por cursos formais a alunos de idades e conhecimentos variados. <br/>Tendo foco, porem não limitado: Desenvolvimento de software, Logica de Programação, Estrutura de Dados, Desenvolvimento WEB, Linguagens Formais, Bancos de Dados, Redes de Computadores, Eletrônica, Tecnologias Embarcadas (AOT), Metodologias Ágeis, Analise de sistemas, Matemática, Cálculo, Estatística, Economia."
+				},
+				{
+					"type": "small-title-and-text",
+					"data": {
+						"title": "Idiomas",
+						"text": "Português nativo/fluente, Inglês intermediário/técnico e Espanhol básico."
+					}
+				}
+			]
+		},
+		{
+			"title": "Experiência profissional",
+			"content": [
+				{
+					"type": "history",
+					"data": [
+						{
+							"position": "Engenheiro de software",
+							"provider": "VIA S.A",
+							"description": "Atuando em projetos de Soluções/Serviços Marketplace. (BACK-END) Desenvolvimento de novas implementações para as aplicações de microserviço do Marketplace. Atuando com tecnologias como: Java, Postgres, Oracle SQL, MongoDB, Kubernettes, Ambiente Cloud Azure, Apache Kafka. Competências: Java · Spring Boot · PostgreSQL · MongoDB · Desenvolvimento de back-end",
+							"date": "Mai/22 - Atual"
+						},
+                        {
+							"position": "Professor de nível Superior",
+							"provider": "ESAMC Santos",
+							"description": "Baseando em técnicas modernas de docência, leciono disciplinas (listadas abaixo) variadas para cursos que contenham em suas grades tais disciplinas, como Engenharia da Computação. Desenvolvimento e programação WEB.  Bancos de Dados. Sistemas Operacionais.",
+							"date": "Fev/22 - Atual"
+						},
+						{
+							"position": "Professor Médio e Superior",
+							"provider": "Fortec Assesoria e Treinamento - Paulista, São Paulo",
+							"description": "Baseando-se nos conhecimentos técnicos e pedagógicos mais eficientes disponíveis, leciono disciplinas variadas, como listado abaixo, nos cursos de ensino médio, técnico e superior. Disciplinas Ensino Médio: Matemática, reforços para ENEM. Disciplinas > Técnico Informática: Redes, Hardware, Linguagem de programação PHP, Java e .NET, Analise Sistemas, Sistemas operacionais, Lógica de programação, Banco de Dados. > Técnico Mecatrônica: Eletrônica Geral, Robótica, Micro-controladores PIC (Assembler), Tecnologia embarcada (Arduino), Redes Industriais. > Ensino superior de Sistemas de Informação: Computação Gráfica, linguagens Formais, Redes ópticas.",
+							"date": "Fev/13 - Atual"
+							
+						},
+                        {
+							"position": "Desenvolvedor de Software",
+							"provider": "Autonomo",
+							"description": "Desenvolvo softwares de gestão sob medida para empresas com necessidades especificas como: Gestão de tarefas, Gestão de compras, Auditorias, Ordens de serviço, sites para uso interno e externo.Em sua grande maioria, os projetos são desenvolvidos em PHP com banco de dados MySQL usando o FrameWork CodeIgniter mas, a gosto da necessidade, plataformas .NET ou Java são determinadas como opções plausíveis.Deve-se citar também ações de consultoria em questões de TI gerais e envolvendo sistemas de ensino Online.Já prestei serviço para instituições como:Fortec Acessoria e treinamento LTDA e suas afiliadas (http://www.fortec.edu.br)Tquality. Auditorias - (http://www.tquality.com.br). Sociedade Brasileira de ensino de Matemática Sbem-Paulista - (http://www.sbempaulista.org.br). Revista Cientifica RenCiMa - <http://revistapos.cruzeirodosul.edu.br/index.php/rencima/index>. Congressos como EPEM e o EBRAPEM.",
+							"date": "Fev/13 - Atual"
+						},
+						{
+							"position": "Programador de Manutenção",
+							"provider": "Usiminas, São Paulo",
+							"description": "Planejamento de serviços de manutenção, programação de Ordens de Manutenção, orientação e verificação de serviço frente à mão de obra. Foi minha parte a programação e planejamento das preventivas elétricas e lubrificação, lidando com todos os envolvidos para melhor atender as necessidades dos mesmos, tendo em muitas ocasiões estadas há frente de manutenções completas de equipamentos. Tendo que lidar com meu efetivo executivo e instruí-los em diversas atividades de competência técnica e pessoal. Paralelo a esta função, exercia a competência de representante de TI onde atendia a toda minha unidade com problemas relacionados a área de informática, resolvendo o que estivesse ao meu alcance, assim filtrando o serviço que era passado a equipe de execução da mesma.",
+							"date": "Ago/11 - Set/12"
+						},
+						{
+							"position": "Assistente Adminstrativo",
+							"provider": "Usiminas - Mecanica, São Paulo",
+							"description": "Participação no desenvolvimento e implantação de ferramentas de gestão de custos, segurança, e qualidade. Dentre eles se destacam o desenvolvimento do sistema de gestão de HI (Hipótese de Incidente), contribuindo para a unificação dos dados e base de formação de planos de ação e tratamento. O sistema de gestão integrada “PPCM” (Programação, Planejamento, Controle, Manutenção) cujo objetivo é gerir rotina dos setores administrativos da empresa e assim diminuir custos. Participação na criação de métodos de controle e montagem de parâmetros para o setor de Logística (movimentação de pessoal) com o objetivo de reduzir gastos. Gestor de informática local (Representante) cuja função é gestão dos recursos disponíveis para minha gerencia.",
+							"date": "Out/10 - Jul/11"
+							
+						},
+						{
+							"position": "Estagiário de TI",
+							"provider": "Fortec Assessoria e Treinamento, São Paulo",
+							"description": "Desenvolvimento de sistemas WEB (PHP, AJAX), tendo destaque: redesenho de muitas partes do site externo da empresa, planejamento e desenvolvimento ferramentas de automatização WEB para concursos de bolsas integrado ao sistema interno de gestão escolar, desenvolvimento de sistema de controle de Ordem de Serviço (OS) em plataforma WEB. Funções administrativas de TI e sistema como: Implantação de atualizações dos sistemas, administração de banco de dados, apoio a implantação do sistema de ensino a distância UNOPAR (Instalação de antenas, sincronização com satélite, apoio ao usuário, cabeamento, entre outros).",
+							"date": "Abr/09 - Set/10"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Formações",
+			"content": [
+				{
+					"type": "courses",
+					"avoidPageBreak": true,
+					"data": [
+						{
+							"institute": "Descomplica",
+							"course": "Pós-graduação em Análise e Desenvolvimento de Programas",
+							"date": "Jul/2022",
+							"logo": "http://professorbaruffi.com.br/chapeu.png"
+						},
+                        {
+							"institute": "Descomplica",
+							"course": "MBA em Gestão Estratégica de Projetos e Metodologias Ágeis",
+							"date": "Jul/2022",
+							"logo": "http://professorbaruffi.com.br/chapeu.png"
+						},
+                        {
+							"institute": "Cruzeiro do Sul",
+							"course": "Pos-Graduação em Tecnologias Digitais e Inovação na Educação",
+							"date": "Dez/2017",
+							"logo": "http://professorbaruffi.com.br/chapeu.png"
+						},
+						{
+							"institute": "Cruzeiro do Sul",
+							"course": "Licenciatura em Matemática",
+							"date": "jan/2018",
+							"logo": "http://professorbaruffi.com.br/chapeu.png"
+						},
+						{
+							"institute": "Faculdade de Tecnologia de São Vicente",
+							"course": "Bacharelado em Sistemas de Informação",
+							"date": "jun/2017",
+							"logo": "http://professorbaruffi.com.br/chapeu.png"
+						}
+					]
+				}
+			]
+		},
+        {
+			"title": "Cursos",
+			"content": [
+				{
+					"type": "courses",
+					"avoidPageBreak": true,
+					"data": [
+						{
+							"institute": "Udemy (online)",
+							"course": "Testes unitários em JAVA: Domine JUnit, Mockito e TDD",
+							"date": "Jul/2022",
+							"logo": "https://dme8nb6778xpo.cloudfront.net/images/app/service_logos/11/e256473a23ee/large.png?1531527803"
+						},
+                        {
+							"institute": "Udemy (online)",
+							"course": "Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais",
+							"date": "Mai/2022",
+							"logo": "https://dme8nb6778xpo.cloudfront.net/images/app/service_logos/11/e256473a23ee/large.png?1531527803"
+						},
+                        {
+							"institute": "Udemy (online)",
+							"course": "Algoritmos Genéticos em Python (Jones Granatyr)",
+							"date": "Set/2019",
+							"logo": "https://dme8nb6778xpo.cloudfront.net/images/app/service_logos/11/e256473a23ee/large.png?1531527803"
+						},
+						{
+							"institute": "Tecnoponta",
+							"course": "Administração de projetos no MS-Project Avançado",
+							"date": "Fev/2014",
+							"logo": "https://www.tecnoponta.com.br/tecnoponta/imgs/logotipo.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Tenho experiência ou já trabalhei com...",
+			"content": [
+				{
+					"type": "nodelist",
+					"data": [
+                        "Java",
+                        "Spring Boot",
+                        "Testes Unitarios",
+                        "Kafka",
+						"HTML",
+						"CSS",
+						"SCSS",
+						"Bootstrap",
+						"JavaScript",
+						"SEO",
+						"Google Analytics",
+						".NET C#",
+						"PHP",
+						"MySQL",
+						"FireBird",
+						"Analise de Dados",
+						"Banco de Dados Relacionais",
+                        "GitHub",
+						"Protocolos de Redes e Comunicações"
+					]
+				}
+			]
+		},
+		{
+			"title": "Aperfeiçoando...",
+			"content": [
+				{
+					"type": "nodelist",
+					"data": [
+						"Machine Learning",
+						"Algoritmo Genético",
+                        "Bancos de Dados NoSQL"
+					]
+				}
+			]
+		},
+		{
+			"title": "Softwares",
+			"content": [
+				{
+					"type": "nodelist",
+					"data": [
+						"SO Windows",
+						"SO Linux",
+                        "Intellij",
+						"Visual Code",
+						"Visual Studio .NET",
+						"Pacote Office",
+						"Google Docs/Sheets/Presentations"
+					]
+				}
+			]
+		}
+	]
+}
