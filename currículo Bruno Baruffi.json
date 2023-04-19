@@ -1,6 +1,6 @@
 {
 	"footer": {
-		"lastUpdate": "02 de agosto de 2022",
+		"lastUpdate": "17 de abril de 2023",
 		"linkedin": "http://www.linkedin.com/in/bruno-baruffi-esteves-78a88b36"
 	},
 	"content": [
@@ -8,7 +8,7 @@
 			"type": "header",
 			"data": {
 				"title": "Bruno Baruffi Esteves",
-				"subtitle": "Casado, brasileiro | 32 anos",
+				"subtitle": "Casado, brasileiro | 33 anos",
 				"colorHighlight": "#3C5598"
 			}
 		},
@@ -74,7 +74,7 @@
 						{
 							"position": "Engenheiro de software",
 							"provider": "VIA S.A",
-							"description": "Atuando em projetos de Soluções/Serviços Marketplace. (BACK-END) Desenvolvimento de novas implementações para as aplicações de microserviço do Marketplace. Atuando com tecnologias como: Java, Postgres, Oracle SQL, MongoDB, Kubernettes, Ambiente Cloud Azure, Apache Kafka. Competências: Java · Spring Boot · PostgreSQL · MongoDB · Desenvolvimento de back-end",
+							"description": "Atuando em projetos de Soluções/Serviços Marketplace. Atuação focada no back-end Java em estrutura de microsserviços API Rest. Projetos focados em manipulação de massas de dados em alta velocidade com multiprocessamento síncrono e assíncrono, utilizando ferramentas de mensageria, bancos de dados relacionais e NoSQL em ambiente de nuvem.. Atuando com tecnologias como: Java, Postgres, Oracle SQL, MongoDB, Kubernettes, Ambiente Cloud Azure, Apache Kafka. Competências: : Padrões de design · Princípios SOLID · Armazenamento de dados · Spring Framework · Interface de programação de aplicativos (API) · Programação orientada a objetos (POO) · Microsserviços · REST (Transferência de estado representacional ) · API REST · JIRA · Apache Kafka · Java · Spring Boot · PostgreSQL · MongoDB · Desenvolvimento de back-end",
 							"date": "Mai/22 - Atual"
 						},
                         {
@@ -189,7 +189,7 @@
 							"institute": "Tecnoponta",
 							"course": "Administração de projetos no MS-Project Avançado",
 							"date": "Fev/2014",
-							"logo": "https://www.tecnoponta.com.br/tecnoponta/imgs/logotipo.png"
+							"logo": "https://dme8nb6778xpo.cloudfront.net/images/app/service_logos/11/e256473a23ee/large.png?1531527803"
 						}
 					]
 				}
@@ -205,6 +205,8 @@
                         "Spring Boot",
                         "Testes Unitarios",
                         "Kafka",
+						"ACRUM",
+						"SOLID",
 						"HTML",
 						"CSS",
 						"SCSS",
@@ -231,8 +233,8 @@
 					"type": "nodelist",
 					"data": [
 						"Machine Learning",
-						"Algoritmo Genético",
-                        "Bancos de Dados NoSQL"
+						"Analise de Dados",
+						"Algoritmo Genético para evolução de algoritmos"
 					]
 				}
 			]
