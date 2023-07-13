@@ -72,10 +72,16 @@
 					"type": "history",
 					"data": [
 						{
-							"position": "Engenheiro de software",
+							"position": "Engenheiro de software Senior",
+							"provider": "Porto",
+							"description": "Trabalhos nas estruturas de TI de processamento de cotações e orçamentos de seguros. Atuando na manutenção e criação das aplicações com foco na melhoria continua do processo para o cliente. Atuação focada no back-end Java em estrutura de microsserviços API Rest. utilizando ferramentas de mensageria, bancos de dados relacionais e NoSQL em ambiente de nuvem.Trabalhos nas estruturas de TI de processamento de cotações e orçamentos de seguros. Atuando na manutenção e criação das aplicações com foco na melhoria continua do processo para o cliente. Atuação focada no back-end Java em estrutura de microsserviços API Rest. utilizando ferramentas de mensageria, bancos de dados relacionais e NoSQL em ambiente de nuvem. Competências: Padrões de design · Programação orientada a objetos (POO) · API REST · Apache Kafka · Banco de dados · Java · Spring Boot · MongoDB",
+							"date": "jun/23 - Atual"
+						},
+						{
+							"position": "Engenheiro de software pleno",
 							"provider": "VIA S.A",
 							"description": "Atuando em projetos de Soluções/Serviços Marketplace. Atuação focada no back-end Java em estrutura de microsserviços API Rest. Projetos focados em manipulação de massas de dados em alta velocidade com multiprocessamento síncrono e assíncrono, utilizando ferramentas de mensageria, bancos de dados relacionais e NoSQL em ambiente de nuvem.. Atuando com tecnologias como: Java, Postgres, Oracle SQL, MongoDB, Kubernettes, Ambiente Cloud Azure, Apache Kafka. Competências: : Padrões de design · Princípios SOLID · Armazenamento de dados · Spring Framework · Interface de programação de aplicativos (API) · Programação orientada a objetos (POO) · Microsserviços · REST (Transferência de estado representacional ) · API REST · JIRA · Apache Kafka · Java · Spring Boot · PostgreSQL · MongoDB · Desenvolvimento de back-end",
-							"date": "Mai/22 - Atual"
+							"date": "Mai/22 - jun/23"
 						},
                         {
 							"position": "Professor de nível Superior",
